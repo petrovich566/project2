@@ -1,5 +1,5 @@
 Установка и настройка Git [Инструкция](https://practicum.yandex.ru/catalog/free/"инструкция")<br>
-**cd~ **<br>
+cd~ <br>
 **mkdir project2**<br>
 **cd project2**<br>
 git init<br>
